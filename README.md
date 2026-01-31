@@ -19,3 +19,11 @@ Project Members -
 [Loo Junn Yong](https://research.monash.edu/en/persons/loo-junn-yong/) [(Monash University, Malaysia)](https://www.monash.edu.my/),                                                                                                                                                                                                                                                                             
 [Thanh Thi Nguyen](https://sites.google.com/view/thanh-thi-nguyen) [(Monash University, Melbourne, Australia)](https://www.monash.edu/),                                                                                                                                                                                                                                                                        
 [Ganesh Krishnasami](https://research.monash.edu/en/persons/ganesh-krishnasamy) [(Monash University, Malaysia)](https://www.monash.edu.my/).
+
+
+### <ins>Funding details<ins>
+
+This work is supported by the prestigious [`Global Excellence and Mobility Scholarship (GEMS)`](https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship), Monash University.
+
+## Overview
+
