@@ -10,12 +10,12 @@ The official repository of the paper with supplementary: [RAPiD]()
 
 ## About the project
 
-This project is a collaboration between [Monash University, Malaysia campus](https://www.monash.edu.my/) and [Data Science & AI Lab](https://research.monash.edu/en/organisations/department-of-data-science-ai/) in the [Faculty of Information Technology](https://www.monash.edu/it), [Monash University, Melbourne (Clayton), Australia](https://www.monash.edu/).
+This project is a collaboration between [Monash University, Malaysia campus](https://www.monash.edu.my/) and [Data Science & AI Lab](https://www.monash.edu/it/dsai) in the [Faculty of Information Technology](https://www.monash.edu/it), [Monash University, Melbourne (Clayton), Australia](https://www.monash.edu/).
+
 Project Members -
 
-[Kaustubh Kundu](https://scholar.google.com/citations?user=DkDGWCYAAAAJ&hl=en) [(Monash University, Melbourne, Australia)](https://www.monash.edu/),                                                                                                                                                     
-[Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua)  [(Monash University and TCS Research, Kolkata, India)](https://www.tcs.com/what-we-do/research),                                                                                                                   
-[Lucy Robertson-Bell](https://research.monash.edu/en/persons/lucy-marde-robertson-bell/) [(Monash University, Melbourne, Australia)](https://www.monash.edu/),                                                                                                                                           
-[Zhixi Cai](https://scholar.google.com/citations?user=-rpiDIoAAAAJ&hl=zh-CN) [(Monash University, Melbourne, Australia)](https://www.monash.edu/), and                                                                                                                                                   
-[Kalin Stefanov](https://research.monash.edu/en/persons/kalin-stefanov) [(Monash University, Melbourne, Australia)](https://www.monash.edu/)    
-
+[Ruturaj Reddy](https://scholar.google.com/citations?user=L31atXwAAAAJ&hl=en) [(Monash University, Melbourne, Australia)](https://www.monash.edu/),                                                                                                                                                     
+[Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua)  [(Monash University and TCS Research, Kolkata, India)](https://www.tcs.com/what-we-do/research),  
+[Loo Junn Yong](https://research.monash.edu/en/persons/loo-junn-yong/) [(Monash University, Malaysia)](https://www.monash.edu.my/),
+[Thanh Thi Nguyen] (https://sites.google.com/view/thanh-thi-nguyen) [(Monash University, Melbourne, Australia)](https://www.monash.edu/),
+[Ganesh Krishnasami](https://research.monash.edu/en/persons/ganesh-krishnasamy) [(Monash University, Malaysia)](https://www.monash.edu.my/).
