@@ -16,6 +16,6 @@ Project Members -
 
 [Ruturaj Reddy](https://scholar.google.com/citations?user=L31atXwAAAAJ&hl=en) [(Monash University, Melbourne, Australia)](https://www.monash.edu/),                                                                                                                                                     
 [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua)  [(Monash University and TCS Research, Kolkata, India)](https://www.tcs.com/what-we-do/research),  
-[Loo Junn Yong](https://research.monash.edu/en/persons/loo-junn-yong/) [(Monash University, Malaysia)](https://www.monash.edu.my/),
-[Thanh Thi Nguyen](https://sites.google.com/view/thanh-thi-nguyen) [(Monash University, Melbourne, Australia)](https://www.monash.edu/),
+[Loo Junn Yong](https://research.monash.edu/en/persons/loo-junn-yong/) [(Monash University, Malaysia)](https://www.monash.edu.my/),                                                                                                                                                                                                                                                                             
+[Thanh Thi Nguyen](https://sites.google.com/view/thanh-thi-nguyen) [(Monash University, Melbourne, Australia)](https://www.monash.edu/),                                                                                                                                                                                                                                                                        
 [Ganesh Krishnasami](https://research.monash.edu/en/persons/ganesh-krishnasamy) [(Monash University, Malaysia)](https://www.monash.edu.my/).
