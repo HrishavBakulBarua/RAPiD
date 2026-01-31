@@ -37,10 +37,17 @@ Diffusion-based trajectory planners have demonstrated strong capability for mode
 ## Qualitative Results
 
 
-### nuPlan simulation: starting right turn (left) and low magnitude speed (right)
+### nuPlan simulation: starting right turn (top) and low magnitude speed (bottom)
 
+https://github.com/user-attachments/assets/e2459be8-253f-48e3-bb3f-1a8fcee762a9
 
 https://github.com/user-attachments/assets/d8688e2a-d366-41d0-b1fd-9d3e10a42382
 
-https://github.com/user-attachments/assets/e2459be8-253f-48e3-bb3f-1a8fcee762a9
+
+### interPlan simulation: pedestrian jaywalking (top) and overtaking parked vehicle (bottom)
+
+
+https://github.com/user-attachments/assets/e9c598e1-ff45-43c9-984c-d9652e118d1b
+
+https://github.com/user-attachments/assets/55e62e93-4108-44cc-aedc-e906351378df
 
