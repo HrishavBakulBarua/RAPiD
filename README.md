@@ -35,3 +35,12 @@ Diffusion-based trajectory planners have demonstrated strong capability for mode
 
 
 ## Qualitative Results
+
+
+### nuPlan simulation: starting right turn (left) and low magnitude speed (right)
+
+
+https://github.com/user-attachments/assets/d8688e2a-d366-41d0-b1fd-9d3e10a42382
+
+https://github.com/user-attachments/assets/e2459be8-253f-48e3-bb3f-1a8fcee762a9
+
