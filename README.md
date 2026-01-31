@@ -32,3 +32,6 @@ Diffusion-based trajectory planners have demonstrated strong capability for mode
 ### Overall Architecture
 
 ![My Image](assets/architecture.png)
+
+
+### Qualitative Results
