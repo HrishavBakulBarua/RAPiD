@@ -28,3 +28,6 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 ## Overview
 
 Diffusion-based trajectory planners have demonstrated strong capability for modeling the multimodal nature of human driving behavior, but their reliance on iterative stochastic sampling poses critical challenges for real-time, safety-critical deployment. In this work, we present RAPiD, a deterministic policy extraction framework that distills a pretrained diffusion-based planner into an efficient policy while eliminating diffusion sampling. Using score-regularized policy optimization, we leverage the score function of a pre-trained diffusion planner as a behavior prior to regularize policy learning. To promote safety and passenger comfort, the policy is optimized using a critic trained to imitate a predictive driver controller, providing dense, safety-focused supervision beyond conventional imitation learning. Evaluations demonstrate that RAPiD achieves competitive performance on closed-loop nuPlan scenarios with an 8X speedup over diffusion baselines, while achieving state-of-the-art generalization among learning-based planners on the interPlan benchmark.
+
+
+![My Image](assets/architecture.png)
