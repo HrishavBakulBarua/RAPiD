@@ -51,3 +51,15 @@ https://github.com/user-attachments/assets/e9c598e1-ff45-43c9-984c-d9652e118d1b
 
 https://github.com/user-attachments/assets/55e62e93-4108-44cc-aedc-e906351378df
 
+##  Citation 
+
+If you find our work (i.e., the code, the theory/concept, or the dataset) useful for your research or development activities, please consider citing our work as follows:
+
+~~~
+@article{reddy2026rapid,
+  title={RAPiD: Real-time Deterministic Trajectory Planning via Diffusion Behavior Priors for Safe and Efficient Autonomous Driving},
+  author={Reddy, Ruturaj and Barua, Hrishav Bakul and Loo, Junn Yong and Nguyen, Thanh Thi and Krishnasamy, Ganesh},
+  journal={arXiv preprint arXiv:2602.07339},
+  year={2026}
+}
+~~~
